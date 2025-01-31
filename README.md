@@ -64,3 +64,5 @@
 ![Resultado 2](./assets/screenshots/cinco.jpeg)
 
 ---
+
+📌 *Desarrollado por José Toloza/ChatGPT* 🚀
