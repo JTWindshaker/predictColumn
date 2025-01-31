@@ -43,3 +43,5 @@
 7. **Salir de la aplicación:** Cuando termines de utilizar la aplicación, puedes cerrar la sesión o simplemente salir, sabiendo que tu IP guardada quedará disponible para futuras sesiones.
 
 ---
+
+📌 *Desarrollado por José Toloza/ChatGPT* 🚀
