@@ -43,3 +43,24 @@
 7. **Salir de la aplicación:** Cuando termines de utilizar la aplicación, puedes cerrar la sesión o simplemente salir, sabiendo que tu IP guardada quedará disponible para futuras sesiones.
 
 ---
+
+## 📷 Capturas de pantalla
+
+### Pantalla de Inicio
+- Imagen 1:
+![Pantalla de Inicio 1](./assets/screenshots/uno.jpeg)
+
+- Imagen 2:
+![Pantalla de Inicio 2](./assets/screenshots/dos.jpeg)
+
+### Ajuste de Parámetros
+![Ajuste de Parámetros](./assets/screenshots/tres.jpeg)
+
+### Resultados de la Predicción
+- Imagen 1:
+![Resultado 1](./assets/screenshots/cuatro.jpeg)
+
+- Imagen 2:
+![Resultado 2](./assets/screenshots/cinco.jpeg)
+
+---
